@@ -1,0 +1,8 @@
+in factory pattern we create object using constructor , where
+we need to pass all the parameters to constructor , and that too in a specific order.
+but in builder pattern we create object using builder class ,
+ where we can pass parameters in any order.
+ and we can miss some parameters. ,
+
+ so it is more flexible and easier to use.
+ we do not need multiple constructors with different parameters.
